@@ -1,6 +1,6 @@
 # Books to Read
 
-This is the list of some good (and not-so-good) books that I want to read.
+This is the list of good (and not-so-good) books that I want to read &check;.
 
 ## Contents
 
@@ -42,7 +42,7 @@ This is the list of some good (and not-so-good) books that I want to read.
 |:---:|---|---|---|
 |  | Karl Popper | The Open Society and Its Enemies | [Amazon](https://www.amazon.fr/dp/0415610214) |
 |  | Karl Popper | The Logic of Scientific Discovery | [Amazon](https://www.amazon.fr/dp/0415278449) |
-| &check; | Bertrand Russell | Principles of Mathematics | [Amazon](https://www.amazon.fr/dp/0415487412) |
+|  | Bertrand Russell | Principles of Mathematics | [Amazon](https://www.amazon.fr/dp/0415487412) |
 |  | Bertrand Russell | History of Western Philosophy | [Amazon](https://www.amazon.fr/dp/0415325056) |
 |  | Jean-Paul Sartre | What is Literature? | [Amazon](https://www.amazon.fr/dp/0415254043/) |
 |  | Jean-Paul Sartre | Being and Nothingness. An Essay on Phenomenological Ontology | [Routledge](https://www.routledge.com/Being-and-Nothingness-An-Essay-on-Phenomenological-Ontology/Sartre/p/book/9780415278485) |
