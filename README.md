@@ -1,6 +1,6 @@
 # Books to Read
 
-This is the list of good (and not-so-good) books that I want to read &check;.
+This is the list of good (and not-so-good) books that I want to read.
 
 ## Contents
 
@@ -53,6 +53,9 @@ This is the list of good (and not-so-good) books that I want to read &check;.
 
 | **Read** | **Author** | **Title** | **URL** |
 |:---:|---|---|---|
+| &check; | Niall Ferguson | Civilization: The West and the Rest | [Amazon](https://www.amazon.fr/dp/1594203059/) |
+| &check; | Yuval Noah Harari | Homo Deus: A Brief History of Tomorrow | [Amazon](https://www.amazon.fr/dp/1784703931/) |
+|  | Yuval Noah Harari | Sapiens: Une Brève Histoire de l'Humanité | [Amazon](https://www.amazon.fr/dp/0099590085/) |
 |  | Francis Fukuyama | The Origins of Political Order: From Prehuman Times to the French Revolution | [Amazon](https://www.amazon.fr/dp/1846682576) |
 |  | Serhii Plokhy | The Last Empire: The Final Days of the Soviet Union | [Amazon](https://www.amazon.fr/dp/1780746466/) |
 
