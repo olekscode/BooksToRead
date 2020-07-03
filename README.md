@@ -40,7 +40,8 @@ This is the list of good (and not-so-good) books that I want to read &check;.
 
 | **Read** | **Author** | **Title** | **URL** |
 |:---:|---|---|---|
-|  | Karl Popper | The Open Society and Its Enemies | [Amazon](https://www.amazon.fr/dp/0415610214) |
+|  | Karl Popper | The Open Society and Its Enemies. Volume I: The Spell of Plato | [Amazon](https://www.amazon.fr/dp/0415610214) |
+|  | Karl Popper | The Open Society and Its Enemies. Volume II: The High Tide of Prophecy. Hegel, Marx, and the Aftermath | [Amazon](https://www.amazon.fr/dp/0415610214) |
 |  | Karl Popper | The Logic of Scientific Discovery | [Amazon](https://www.amazon.fr/dp/0415278449) |
 |  | Bertrand Russell | Principles of Mathematics | [Amazon](https://www.amazon.fr/dp/0415487412) |
 |  | Bertrand Russell | History of Western Philosophy | [Amazon](https://www.amazon.fr/dp/0415325056) |
