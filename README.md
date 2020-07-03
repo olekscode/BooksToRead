@@ -1,6 +1,23 @@
 # Books to Read
 
-This is the list of some good books that I want to read.
+This is the list of some good (and not-so-good) books that I want to read.
+
+## Contents
+
+- [Academic Writing and Research](#academic-writing-and-research)
+- [Fiction](#fiction)
+- [Non-fiction](#non-fiction)
+- [Philosophy](#philosophy)
+- [Popular History](#popular-history)
+- [Technical Books and Manuals](#technical-books-and-manuals)
+
+## Academic Writing and Research
+
+| **Read** | **Author** | **Title** | **URL** |
+|:---:|---|---|---|
+|  | John W. Creswell, J. David Creswell | Research Design: Qualitative, Quantitative, and Mixed Methods Approaches | [Amazon](https://www.amazon.fr/dp/1506386709) |
+|  | Wendy Laura Belcher | Writing Your Journal Article in Twelve Weeks, Second Edition: A Guide to Academic Publishing Success | [Amazon](https://www.amazon.fr/dp/022649991X) |
+|  | Steven Pinker | The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century | [Amazon](https://www.amazon.fr/dp/0241957710) |
 
 ## Fiction
 
@@ -8,6 +25,16 @@ This is the list of some good books that I want to read.
 |:---:|---|---|---|
 |  | J. D. Salinger | Catcher in the Rye | [Amazon](https://www.amazon.fr/dp/1439550050) |
 |  | Victor Hugo | Les Misérables | [Amazon](https://www.amazon.fr/dp/2253096334/) |
+
+## Non-fiction
+
+| **Read** | **Author** | **Title** | **URL** |
+|:---:|---|---|---|
+|  | Douglas R. Hofstadter | Gödel, Escher, Bach: an Eternal Golden Braid | [Amazon](https://www.amazon.fr/dp/0465026567) |
+|  | Cathy O'Neil | Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy | [Amazon](https://www.amazon.fr/dp/0553418831) |
+|  | Simone de Beauvoir | Le deuxième sexe, tome 1 : Les faits et les mythes | [Amazon](https://www.amazon.fr/dp/207032351X) |
+|  | Emmanuel Todd | Les Luttes de classes en France au XXIe siècle | [Amazon](https://www.amazon.fr/dp/2021426823/) |
+|  | Erich Fromm | The Art of Loving | [Amazon](https://www.amazon.fr/dp/6077470244/) |
 
 ## Philosophy
 
@@ -27,24 +54,6 @@ This is the list of some good books that I want to read.
 |:---:|---|---|---|
 |  | Francis Fukuyama | The Origins of Political Order: From Prehuman Times to the French Revolution | [Amazon](https://www.amazon.fr/dp/1846682576) |
 |  | Serhii Plokhy | The Last Empire: The Final Days of the Soviet Union | [Amazon](https://www.amazon.fr/dp/1780746466/) |
-
-## Academic Writing and Research
-
-| **Read** | **Author** | **Title** | **URL** |
-|:---:|---|---|---|
-|  | John W. Creswell, J. David Creswell | Research Design: Qualitative, Quantitative, and Mixed Methods Approaches | [Amazon](https://www.amazon.fr/dp/1506386709) |
-|  | Wendy Laura Belcher | Writing Your Journal Article in Twelve Weeks, Second Edition: A Guide to Academic Publishing Success | [Amazon](https://www.amazon.fr/dp/022649991X) |
-|  | Steven Pinker | The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century | [Amazon](https://www.amazon.fr/dp/0241957710) |
-
-## Non-fiction
-
-| **Read** | **Author** | **Title** | **URL** |
-|:---:|---|---|---|
-|  | Douglas R. Hofstadter | Gödel, Escher, Bach: an Eternal Golden Braid | [Amazon](https://www.amazon.fr/dp/0465026567) |
-|  | Cathy O'Neil | Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy | [Amazon](https://www.amazon.fr/dp/0553418831) |
-|  | Simone de Beauvoir | Le deuxième sexe, tome 1 : Les faits et les mythes | [Amazon](https://www.amazon.fr/dp/207032351X) |
-|  | Emmanuel Todd | Les Luttes de classes en France au XXIe siècle | [Amazon](https://www.amazon.fr/dp/2021426823/) |
-|  | Erich Fromm | The Art of Loving | [Amazon](https://www.amazon.fr/dp/6077470244/) |
 
 ## Technical Books and Manuals
 
