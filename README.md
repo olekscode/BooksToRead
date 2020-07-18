@@ -25,6 +25,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |:---:|---|---|:---:|---|
 |  | J. D. Salinger | Catcher in the Rye |  | [Amazon](https://www.amazon.fr/dp/1439550050) |
 |  | Victor Hugo | Les Misérables |  | [Amazon](https://www.amazon.fr/dp/2253096334/) |
+|  | Haruki Murakami | Hard-boiled Wonderland and the End of the World |  | [Amazon](https://www.amazon.fr/dp/0099448785/) |
 
 ## Non-fiction
 
@@ -40,7 +41,7 @@ This is the list of good (and not-so-good) books that I want to read.
 
 | **Read** | **Author** | **Title** | **Rating** | **URL** |
 |:---:|---|---|:---:|---|
-|  | Karl Popper | The Open Society and Its Enemies. Volume I: The Spell of Plato |  | [Amazon](https://www.amazon.fr/dp/0415610214) |
+| &check; | Karl Popper | The Open Society and Its Enemies. Volume I: The Spell of Plato | &#9733;&#9733;&#9733;&#9733;&#9733; | [Amazon](https://www.amazon.fr/dp/0415610214) |
 |  | Karl Popper | The Open Society and Its Enemies. Volume II: The High Tide of Prophecy. Hegel, Marx, and the Aftermath |  | [Amazon](https://www.amazon.fr/dp/0415610214) |
 |  | Karl Popper | The Logic of Scientific Discovery |  | [Amazon](https://www.amazon.fr/dp/0415278449) |
 |  | Bertrand Russell | Principles of Mathematics |  | [Amazon](https://www.amazon.fr/dp/0415487412) |
