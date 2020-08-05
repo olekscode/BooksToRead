@@ -26,6 +26,11 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | J. D. Salinger | Catcher in the Rye |  | [Amazon](https://www.amazon.fr/dp/1439550050) |
 |  | Victor Hugo | Les Misérables |  | [Amazon](https://www.amazon.fr/dp/2253096334/) |
 |  | Haruki Murakami | Hard-boiled Wonderland and the End of the World |  | [Amazon](https://www.amazon.fr/dp/0099448785/) |
+|  | André Aciman | Call Me by Your Name |  | [Amazon](https://www.amazon.fr/dp/1250169445/) |
+|  | Ernest Hemingway | For Whom the Bell Tolls |  | [Amazon](https://www.amazon.fr/dp/0099908603/) |
+|  | George Orwell | Animal Farm |  | [Amazon](https://www.amazon.fr/dp/0141036133/) |
+|  | James Joyce | Ulysses |  | [Amazon](https://www.amazon.fr/dp/1840226358/) |
+|  | Aldous Huxley | Brave New World |  | [Amazon](https://www.amazon.fr/dp/0099477467/) |
 
 ## Non-fiction
 
@@ -35,7 +40,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | Cathy O'Neil | Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy |  | [Amazon](https://www.amazon.fr/dp/0553418831) |
 |  | Simone de Beauvoir | Le deuxième sexe, tome 1 : Les faits et les mythes |  | [Amazon](https://www.amazon.fr/dp/207032351X) |
 |  | Emmanuel Todd | Les Luttes de classes en France au XXIe siècle |  | [Amazon](https://www.amazon.fr/dp/2021426823/) |
-|  | Erich Fromm | The Art of Loving |  | [Amazon](https://www.amazon.fr/dp/6077470244/) |
+| &check; | Erich Fromm | The Art of Loving | &#9733;&#9733;&#9733;&#9733;&#9734; | [Amazon](https://www.amazon.fr/dp/6077470244/) |
 
 ## Philosophy
 
