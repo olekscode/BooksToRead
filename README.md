@@ -26,7 +26,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | J. D. Salinger | Catcher in the Rye |  | [Amazon](https://www.amazon.fr/dp/1439550050) |
 |  | Victor Hugo | Les Misérables |  | [Amazon](https://www.amazon.fr/dp/2253096334/) |
 |  | Haruki Murakami | Hard-boiled Wonderland and the End of the World |  | [Amazon](https://www.amazon.fr/dp/0099448785/) |
-|  | André Aciman | Call Me by Your Name |  | [Amazon](https://www.amazon.fr/dp/1250169445/) |
+| &check; | André Aciman | Call Me by Your Name | &#9733;&#9733;&#9733;&#9733;&#9733; | [Amazon](https://www.amazon.fr/dp/1250169445/) |
 |  | Ernest Hemingway | For Whom the Bell Tolls |  | [Amazon](https://www.amazon.fr/dp/0099908603/) |
 |  | George Orwell | Animal Farm |  | [Amazon](https://www.amazon.fr/dp/0141036133/) |
 |  | James Joyce | Ulysses |  | [Amazon](https://www.amazon.fr/dp/1840226358/) |
