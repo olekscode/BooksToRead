@@ -27,10 +27,12 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | Victor Hugo | Les Misérables |  | [Amazon](https://www.amazon.fr/dp/2253096334/) |
 |  | Haruki Murakami | Hard-boiled Wonderland and the End of the World |  | [Amazon](https://www.amazon.fr/dp/0099448785/) |
 | &check; | André Aciman | Call Me by Your Name | &#9733;&#9733;&#9733;&#9733;&#9733; | [Amazon](https://www.amazon.fr/dp/1250169445/) |
-|  | Ernest Hemingway | For Whom the Bell Tolls |  | [Amazon](https://www.amazon.fr/dp/0099908603/) |
+| &check; | Ernest Hemingway | For Whom the Bell Tolls | &#9733;&#9733;&#9733;&#9733;&#9733; | [Amazon](https://www.amazon.fr/dp/0099908603/) |
+|  | Ernest Hemingway | A Farewell to Arms |  | [Amazon](https://www.amazon.fr/dp/1857151496) |
 |  | George Orwell | Animal Farm |  | [Amazon](https://www.amazon.fr/dp/0141036133/) |
 |  | James Joyce | Ulysses |  | [Amazon](https://www.amazon.fr/dp/1840226358/) |
 |  | Aldous Huxley | Brave New World |  | [Amazon](https://www.amazon.fr/dp/0099477467/) |
+|  | Orhan Pamuk | My Name is Red |  | [Amazon](https://www.amazon.fr/dp/0571214193/) |
 
 ## Non-fiction
 
@@ -64,6 +66,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | Yuval Noah Harari | Sapiens: Une Brève Histoire de l'Humanité |  | [Amazon](https://www.amazon.fr/dp/0099590085/) |
 |  | Francis Fukuyama | The Origins of Political Order: From Prehuman Times to the French Revolution |  | [Amazon](https://www.amazon.fr/dp/1846682576) |
 |  | Serhii Plokhy | The Last Empire: The Final Days of the Soviet Union |  | [Amazon](https://www.amazon.fr/dp/1780746466/) |
+|  | Selina O'Grady | In the Name of God: A History of Christian and Muslim Intolerance |  | [Amazon](https://www.amazon.fr/dp/1843547007/) |
 
 ## Technical Books and Manuals
 
