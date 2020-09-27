@@ -33,6 +33,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | James Joyce | Ulysses |  | [Amazon](https://www.amazon.fr/dp/1840226358/) |
 |  | Aldous Huxley | Brave New World |  | [Amazon](https://www.amazon.fr/dp/0099477467/) |
 |  | Orhan Pamuk | My Name is Red |  | [Amazon](https://www.amazon.fr/dp/0571214193/) |
+|  | Leo Tolstoy | War and Peace |  | [Amazon](https://www.amazon.fr/dp/0241265541/) |
 
 ## Non-fiction
 
@@ -43,6 +44,8 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | Simone de Beauvoir | Le deuxième sexe, tome 1 : Les faits et les mythes |  | [Amazon](https://www.amazon.fr/dp/207032351X) |
 |  | Emmanuel Todd | Les Luttes de classes en France au XXIe siècle |  | [Amazon](https://www.amazon.fr/dp/2021426823/) |
 | &check; | Erich Fromm | The Art of Loving | &#9733;&#9733;&#9733;&#9733;&#9734; | [Amazon](https://www.amazon.fr/dp/6077470244/) |
+|  | Максим Нефьодов, Федір Крикун | ProZorro. Зробити неможливе в українській владі |  | [Наш Формат](https://nashformat.ua/products/ebook-prozorro.-zrobyty-nemozhlyve-v-ukrainskij-vladi-621346) |
+|  | Олександр Михед | "Я змішаю твою кров із вугіллям". Зрозуміти український Схід |  | [Наш Формат](https://nashformat.ua/products/-ya-zmishayu-tvoyu-krov-iz-vugillyam-.-zrozumity-ukrainskyj-shid-709338) |
 
 ## Philosophy
 
