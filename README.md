@@ -34,6 +34,8 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | Aldous Huxley | Brave New World |  | [Amazon](https://www.amazon.fr/dp/0099477467/) |
 |  | Orhan Pamuk | My Name is Red |  | [Amazon](https://www.amazon.fr/dp/0571214193/) |
 |  | Leo Tolstoy | War and Peace |  | [Amazon](https://www.amazon.fr/dp/0241265541/) |
+|  | Douglas Adams | The Hitchhiker's Guide to the Galaxy |  | [Amazon](https://www.amazon.fr/dp/0345391802) |
+|  | Joseph Heller | Catch 22 |  | [Amazon](https://www.amazon.fr/dp/1857152204/) |
 
 ## Non-fiction
 
