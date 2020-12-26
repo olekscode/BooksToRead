@@ -26,6 +26,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | J. D. Salinger | Catcher in the Rye |  | [Amazon](https://www.amazon.fr/dp/1439550050) |
 |  | Victor Hugo | Les Misérables |  | [Amazon](https://www.amazon.fr/dp/2253096334/) |
 |  | Haruki Murakami | Hard-boiled Wonderland and the End of the World |  | [Amazon](https://www.amazon.fr/dp/0099448785/) |
+|  | Haruki Murakami | Kafka on the Shore |  | [Amazon](https://www.amazon.fr/dp/0099494094/) |
 | &check; | André Aciman | Call Me by Your Name | &#9733;&#9733;&#9733;&#9733;&#9733; | [Amazon](https://www.amazon.fr/dp/1250169445/) |
 | &check; | Ernest Hemingway | For Whom the Bell Tolls | &#9733;&#9733;&#9733;&#9733;&#9733; | [Amazon](https://www.amazon.fr/dp/0099908603/) |
 |  | Ernest Hemingway | A Farewell to Arms |  | [Amazon](https://www.amazon.fr/dp/1857151496) |
@@ -36,6 +37,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | Leo Tolstoy | War and Peace |  | [Amazon](https://www.amazon.fr/dp/0241265541/) |
 |  | Douglas Adams | The Hitchhiker's Guide to the Galaxy |  | [Amazon](https://www.amazon.fr/dp/0345391802) |
 |  | Joseph Heller | Catch 22 |  | [Amazon](https://www.amazon.fr/dp/1857152204/) |
+|  | Frank Herbert | Dune |  | [Amazon](https://www.amazon.fr/dp/0441172717/) |
 
 ## Non-fiction
 
@@ -72,6 +74,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | Francis Fukuyama | The Origins of Political Order: From Prehuman Times to the French Revolution |  | [Amazon](https://www.amazon.fr/dp/1846682576) |
 |  | Serhii Plokhy | The Last Empire: The Final Days of the Soviet Union |  | [Amazon](https://www.amazon.fr/dp/1780746466/) |
 |  | Selina O'Grady | In the Name of God: A History of Christian and Muslim Intolerance |  | [Amazon](https://www.amazon.fr/dp/1843547007/) |
+|  | Tony Judt | Postwar: A History of Europe Since 1945 |  | [Amazon](https://www.amazon.fr/dp/009954203X/) |
 
 ## Technical Books and Manuals
 
