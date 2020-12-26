@@ -74,6 +74,7 @@ This is the list of good (and not-so-good) books that I want to read.
 |  | Francis Fukuyama | The Origins of Political Order: From Prehuman Times to the French Revolution |  | [Amazon](https://www.amazon.fr/dp/1846682576) |
 |  | Serhii Plokhy | The Last Empire: The Final Days of the Soviet Union |  | [Amazon](https://www.amazon.fr/dp/1780746466/) |
 |  | Selina O'Grady | In the Name of God: A History of Christian and Muslim Intolerance |  | [Amazon](https://www.amazon.fr/dp/1843547007/) |
+|  | Stephen Clarke | The French Revolution and What Went Wrong |  | [Amazon](https://www.amazon.fr/dp/1780895518/) |
 |  | Tony Judt | Postwar: A History of Europe Since 1945 |  | [Amazon](https://www.amazon.fr/dp/009954203X/) |
 
 ## Technical Books and Manuals
